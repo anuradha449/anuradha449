@@ -48,10 +48,6 @@ Building intelligent, scalable, and secure software solutions while continuously
 
 ## 💼 Featured Projects
 
-🛡 AI-Powered Intrusion Detection System
-
-🤖 Deep Learning Gesture Recognition
-
 🎬 Movie Recommendation System
 
 💼 Freelance Marketplace
@@ -88,7 +84,7 @@ Building intelligent, scalable, and secure software solutions while continuously
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:meruguanuradha8@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
@@ -96,34 +92,33 @@ Building intelligent, scalable, and secure software solutions while continuously
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuradha44&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha44&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuradha44&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha44&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anuradha44&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=anuradha44&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuradha44&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuradha44&theme=tokyo-night" />
 </p>
 
 ---
