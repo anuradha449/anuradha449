@@ -89,38 +89,6 @@ Building intelligent, scalable, and secure software solutions while continuously
 </a>
 
 </p>
-
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuradha44&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha44&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anuradha44&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuradha44&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 💬 Quote
